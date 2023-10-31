@@ -1,8 +1,8 @@
 # simple_shell
 
 ## DESCRIPTION
-A simple shell created for Holberton School project. Partner project with @rdsim8589 &amp; @wintermanc3r
-Contact timothy.britton@holbertonschool.com or richard.sim@holbertonschool.com to correct errors or typos.
+A simple shell created for Holberton School project. Partner project with @James6350 &amp; @mainasploit
+Contact nziokamutua6350@gmail.com  or mainasploit@gmail.com to correct errors or typos.
 
 Simple_shell is an sh-compatible command language interpreter that executes commands from the stand input or from a file.
 
